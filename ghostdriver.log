@@ -18,15 +18,11 @@
   (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-01-24T03:13:54.714Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-01-24T03:13:54.714Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+[ERROR - 2017-01-24T03:13:54.714Z] Ses[INFO  - 2017-01-24T03:17:43.346Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+7-01-24T03:13:54.714Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
   (anonymous function) (h[INFO  - 2017-01-24T03:16:30.911Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-sion [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-01-24T03:13:59.03[INFO  - 2017-01-24T03:14:10.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-01-24T03:18:43.383Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+7-01-24T03:13:59.03[INFO  - 2017-01-24T03:16:54.300Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 idget.js:2)
 
   phantomjs://platform/console++.js:263 in error
@@ -41,8 +37,8 @@ idget.js:2)
 
   phantomjs://platform/console++.js:263 in error
 [ERROR - 2017-01-24T03:14:09.786Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
-  (anonymous function) (https://s7.addthis.c[INFO  - 2017-01-24T03:15:01.206Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
--11e6-971d-23edb459278c] - page.onError - msg: undefined
+  (anonymous function) (https://s7.addthis.c[INFO  - 2017-01-24T03:15:01.206Z] SessionManage[INFO  - 2017-01-24T03:17:27.007Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ndefined
 
   phantomjs://platform/console++.js:263 in error
 [ERROR - 2017-01-24T03:14:13.036Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
@@ -113,3 +109,52 @@ idget.js:2)
 
   phantomjs://platform/console++.js:263 in error
 [INFO  - 2017-01-24T03:15:14.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-01-24T03:17:41.445Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:41.445Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+  (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:45.337Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:45.338Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+  (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:48.771Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:48.771Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+  (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:52.068Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:52.068Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+  (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:55.192Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:55.192Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+  (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:58.248Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:17:58.248Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+  (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:18:01.511Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - msg: undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-24T03:18:01.511Z] Session [ed253a70-e1e1-11e6-971d-23edb459278c] - page.onError - stack:
+  (anonymous function) (https://s7.addthis.com/js/250/addthis_widget.js:2)
+
+  phantomjs://platform/console++.js:263 in error
