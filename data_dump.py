@@ -7,6 +7,8 @@ conn.autocommit = True
 cur = conn.cursor()
 conn.commit()
 
+cur.execute("""Truncate company""")
+
 def save(data_storage_1):
 	conn.commit()
 	a = data_storage_1
@@ -15,7 +17,7 @@ def save(data_storage_1):
 	even = 0 
 
 	if len(a[0]) == 7 :
-		maximum_3 = len(a[0]) / 7
+		maximum_3 = len(a[0]) / 7 
 		last = 1
 	else:
 		maximum_1 = len(a[even])/7
@@ -24,14 +26,13 @@ def save(data_storage_1):
 	if not len(a[0]) == 7:
 		for numero in range(maximum_1):
 			millis = int(round(time.time() * 1000))
-			current_milli_time = lambda: int(round(time.time() * 1000))
+			current_milli_time = lambda: int(round(time.time() * 100000000))
 			number = current_milli_time()
 			name = a[even][0].strip()
 			city = a[even][3].strip()
 			town = a[even][4].strip()
 			z_code = a[even][5].strip()
-			time.sleep(.5)
-			print name, city, town, z_code
+			print name, city, town, z_code##############
 			cur.execute("""INSERT INTO company VALUES (%r, %r, %r, %r, %r)"""%(number, name, city, town, z_code))
 
 			del a[even][0]
@@ -46,14 +47,14 @@ def save(data_storage_1):
 		if int(last) == 1:
 			for numero in range(maximum_3):
 				millis = int(round(time.time() * 1000))
-				current_milli_time = lambda: int(round(time.time() * 1000))
+				current_milli_time = lambda: int(round(time.time() * 100000000))
 				number = current_milli_time()
 				name = a[0][0].strip()
 				city = a[0][3].strip()
 				town = a[0][4].strip()
 				z_code = a[0][5].strip()
 				time.sleep(.5)
-				print name, city, town, z_code
+				print name, city, town, z_code#####################
 				cur.execute("""INSERT INTO company VALUES (%r, %r, %r, %r, %r)"""%(number, name, city, town, z_code))
 				
 			last = 0	
